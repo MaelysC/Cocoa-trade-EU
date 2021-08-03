@@ -1,0 +1,69 @@
+﻿Target,Reporter Countries,Source,Partner Countries,Item Code,Item,Year,Unit,Value,Raw cocoa eq,
+22,Processed,2,Ireland,F0665,"Cocoa, powder & cake",2017,tonnes,1035,3008.72093,FAO data based on imputation methodology
+22,Processed,5,Austria,F0665,"Cocoa, powder & cake",2017,tonnes,1096,3186.046512,FAO data based on imputation methodology
+43,Portugal,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,1100,3197.674419,Official data
+27,Sweden,5,Austria,665,"Cocoa, powder & cake",2017,tonnes,1168,3395.348837,Official data
+20,Denmark,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,1198,3482.55814,Official data
+30,Netherlands,6,Poland,665,"Cocoa, powder & cake",2017,tonnes,1210,3517.44186,Official data
+32,Poland,8,France,665,"Cocoa, powder & cake",2017,tonnes,1302,3784.883721,Official data
+33,Belgium,9,United Kingdom of Great Britain and Northern Ireland,665,"Cocoa, powder & cake",2017,tonnes,1335,3880.813953,Official data
+21,United Kingdom of Great Britain and Northern Ireland,3,Belgium,665,"Cocoa, powder & cake",2017,tonnes,1355,3938.953488,Official data
+32,Poland,4,Côte d'Ivoire,665,"Cocoa, powder & cake",2017,tonnes,1400,4069.767442,Official data
+34,Estonia,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,1444,4197.674419,Official data
+29,Bulgaria,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,1497,4351.744186,Official data
+35,Romania,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,1525,4433.139535,Official data
+23,Austria,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,1607,4671.511628,Official data
+36,Hungary,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,1629,4735.465116,Official data
+37,Slovakia,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,1674,4866.27907,Official data
+26,Germany,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,1745,5072.674419,Official data
+30,Netherlands,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,1979,5752.906977,Official data
+21,United Kingdom of Great Britain and Northern Ireland,8,France,665,"Cocoa, powder & cake",2017,tonnes,2234,6494.186047,Official data
+21,United Kingdom of Great Britain and Northern Ireland,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,2265,6584.302326,Official data
+33,Belgium,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,2340,6802.325581,Official data
+40,Czechia,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,2349,6828.488372,Official data
+26,Germany,5,Austria,665,"Cocoa, powder & cake",2017,tonnes,2408,7000,Official data
+24,France,10,Italy,665,"Cocoa, powder & cake",2017,tonnes,2476,7197.674419,Official data
+35,Romania,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,2534,7366.27907,Official data
+40,Czechia,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,2778,8075.581395,Official data
+24,France,3,Belgium,665,"Cocoa, powder & cake",2017,tonnes,2821,8200.581395,Official data
+24,France,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,3160,9186.046512,Official data
+33,Belgium,4,Côte d'Ivoire,665,"Cocoa, powder & cake",2017,tonnes,3234,9401.162791,Official data
+27,Sweden,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,3275,9520.348837,Official data
+25,Greece,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,3295,9578.488372,Official data
+22,Processed,14,Croatia,F0665,"Cocoa, powder & cake",2017,tonnes,3519,10229.65116,FAO data based on imputation methodology
+29,Bulgaria,13,Ghana,665,"Cocoa, powder & cake",2017,tonnes,3555,10334.30233,Official data
+33,Belgium,13,Ghana,665,"Cocoa, powder & cake",2017,tonnes,3561,10351.74419,Official data
+22,Processed,11,Slovakia,F0665,"Cocoa, powder & cake",2017,tonnes,3620,10523.25581,FAO data based on imputation methodology
+26,Germany,13,Ghana,665,"Cocoa, powder & cake",2017,tonnes,3805,11061.04651,Official data
+30,Netherlands,8,France,665,"Cocoa, powder & cake",2017,tonnes,3886,11296.51163,Official data
+38,Italy,7,Spain,665,"Cocoa, powder & cake",2017,tonnes,4034,11726.74419,Official data
+26,Germany,8,France,665,"Cocoa, powder & cake",2017,tonnes,4342,12622.09302,Official data
+36,Hungary,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,4473,13002.90698,Official data
+24,France,4,Côte d'Ivoire,665,"Cocoa, powder & cake",2017,tonnes,4486,13040.69767,Official data
+31,Spain,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,4557,13247.09302,Official data
+33,Belgium,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,4572,13290.69767,Official data
+31,Spain,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,4623,13438.95349,Official data
+21,United Kingdom of Great Britain and Northern Ireland,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,5039,14648.25581,Official data
+38,Italy,8,France,665,"Cocoa, powder & cake",2017,tonnes,5344,15534.88372,Official data
+33,Belgium,8,France,665,"Cocoa, powder & cake",2017,tonnes,6111,17764.53488,Official data
+26,Germany,4,Côte d'Ivoire,665,"Cocoa, powder & cake",2017,tonnes,7023,20415.69767,Official data
+21,United Kingdom of Great Britain and Northern Ireland,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,7544,21930.23256,Official data
+32,Poland,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,8269,24037.7907,Official data
+33,Belgium,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,8545,24840.11628,Official data
+30,Netherlands,3,Belgium,665,"Cocoa, powder & cake",2017,tonnes,8585,24956.39535,Official data
+30,Netherlands,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,8927,25950.5814,Official data
+38,Italy,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,10244,29779.06977,Official data
+32,Poland,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,10662,30994.18605,Official data
+24,France,1,Germany,665,"Cocoa, powder & cake",2017,tonnes,10996,31965.11628,Official data
+38,Italy,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,14506,42168.60465,Official data
+31,Spain,13,Ghana,665,"Cocoa, powder & cake",2017,tonnes,14614,42482.55814,Official data
+24,France,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,16456,47837.2093,Official data
+30,Netherlands,13,Ghana,665,"Cocoa, powder & cake",2017,tonnes,22337,64933.13953,Official data
+30,Netherlands,4,Côte d'Ivoire,665,"Cocoa, powder & cake",2017,tonnes,22953,66723.83721,Official data
+22,Processed,0,Netherlands,F0665,"Cocoa, powder & cake",2017,tonnes,32128,93395.34884,FAO data based on imputation methodology
+22,Processed,6,Poland,F0665,"Cocoa, powder & cake",2017,tonnes,33919,98601.74419,FAO data based on imputation methodology
+22,Processed,10,Italy,F0665,"Cocoa, powder & cake",2017,tonnes,40426,117517.4419,FAO data based on imputation methodology
+26,Germany,0,Netherlands,665,"Cocoa, powder & cake",2017,tonnes,43509,126479.6512,Official data
+31,Spain,4,Côte d'Ivoire,665,"Cocoa, powder & cake",2017,tonnes,45334,131784.8837,Official data
+22,Processed,3,Belgium,F0665,"Cocoa, powder & cake",2017,tonnes,82245,239084.3023,FAO data based on imputation methodology
+22,Processed,1,Germany,F0665,"Cocoa, powder & cake",2017,tonnes,120862,351343.0233,FAO data based on imputation methodology

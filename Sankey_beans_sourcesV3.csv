@@ -1,0 +1,27 @@
+﻿ID,Desc,Color
+0,Côte d'Ivoire,#fec5bb
+1,Ghana,#fec89a
+2,Belgium direct imports,#f8961e
+3,Bulgaria direct imports,#f9c74f
+4,Estonia direct imports,#efea5a
+5,France direct imports,#277da1
+6,Germany direct imports,#4d908e
+7,Italy direct imports,#90be6d
+8,Netherlands direct imports,#f9c74f
+9,Poland direct imports,#577590
+10,Spain direct imports,#f94144
+11,United Kingdom direct imports,#a3cef1
+12,Processed in country,#b1a7a6
+13,Germany re-imports,#4d908e
+14,France re-imports,#277da1
+15,Spain re-imports,#f94144
+16,Poland re-imports,#577590
+17,Austria re-imports,#272640
+18,Italy re-imports,#90be6d
+19,Greece re-imports,#16db93
+20,Croatia re-imports,#641220
+21,Estonia re-imports,#efea5a
+22,Belgium re-imports,#f8961e
+23,Netherlands re-imports,#f9c74f
+24,Denmark re-imports,#373d20
+25,United Kingdom re-imports,#a3cef1

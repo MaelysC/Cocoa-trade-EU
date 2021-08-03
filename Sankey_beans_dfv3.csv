@@ -1,0 +1,63 @@
+﻿Target,Reporter Countries,Source,Partner Countries,Element,Item Code,Item,Unit,Value,Value_scaled,Link Color,Commodity
+13,Germany,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,139528,73670.784,"rgba(181,131,141,0.2)",Primary - cocoa beans
+14,France,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,8184,4321.152,"rgba(181,131,141,0.2)",Primary - cocoa beans
+15,Spain,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,5109,2697.552,"rgba(181,131,141,0.2)",Primary - cocoa beans
+16,Poland,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,4334,2288.352,"rgba(181,131,141,0.2)",Primary - cocoa beans
+17,Austria,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,3771,1991.088,"rgba(181,131,141,0.2)",Primary - cocoa beans
+18,Italy,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,3751,1980.528,"rgba(181,131,141,0.2)",Primary - cocoa beans
+19,Greece,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,2418,1276.704,"rgba(181,131,141,0.2)",Primary - cocoa beans
+20,Croatia,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,1659,875.952,"rgba(181,131,141,0.2)",Primary - cocoa beans
+21,Estonia,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,465,245.52,"rgba(181,131,141,0.2)",Primary - cocoa beans
+22,Belgium,8,Netherlands,Import Quantity,661,"Cocoa, beans",tonnes,105,55.44,"rgba(181,131,141,0.2)",Primary - cocoa beans
+8,Netherlands,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,112387,112387,"rgba(181,131,141,0.2)",Primary - cocoa beans
+5,France,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,37707,37707,"rgba(181,131,141,0.2)",Primary - cocoa beans
+2,Belgium,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,32006,32006,"rgba(181,131,141,0.2)",Primary - cocoa beans
+6,Germany,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,26985,26985,"rgba(181,131,141,0.2)",Primary - cocoa beans
+7,Italy,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,17115,17115,"rgba(181,131,141,0.2)",Primary - cocoa beans
+10,Spain,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,14551,14551,"rgba(181,131,141,0.2)",Primary - cocoa beans
+11,United Kingdom of Great Britain and Northern Ireland,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,14498,14498,"rgba(181,131,141,0.2)",Primary - cocoa beans
+3,Bulgaria,1,Ghana,Import Quantity,661,"Cocoa, beans",tonnes,160,160,"rgba(181,131,141,0.2)",Primary - cocoa beans
+16,Poland,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,4329,1454.544,"rgba(181,131,141,0.2)",Primary - cocoa beans
+17,Austria,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,4009,1347.024,"rgba(181,131,141,0.2)",Primary - cocoa beans
+23,Netherlands,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,2545,855.12,"rgba(181,131,141,0.2)",Primary - cocoa beans
+14,France,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,2065,693.84,"rgba(181,131,141,0.2)",Primary - cocoa beans
+18,Italy,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,1227,412.272,"rgba(181,131,141,0.2)",Primary - cocoa beans
+22,Belgium,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,559,187.824,"rgba(181,131,141,0.2)",Primary - cocoa beans
+19,Greece,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,399,134.064,"rgba(181,131,141,0.2)",Primary - cocoa beans
+24,Denmark,6,Germany,Import Quantity,661,"Cocoa, beans",tonnes,141,47.376,"rgba(181,131,141,0.2)",Primary - cocoa beans
+25,United Kingdom of Great Britain and Northern Ireland,5,France,Import Quantity,661,"Cocoa, beans",tonnes,31245,19278.165,"rgba(181,131,141,0.2)",Primary - cocoa beans
+15,Spain,5,France,Import Quantity,661,"Cocoa, beans",tonnes,6531,4029.627,"rgba(181,131,141,0.2)",Primary - cocoa beans
+22,Belgium,5,France,Import Quantity,661,"Cocoa, beans",tonnes,2565,1582.605,"rgba(181,131,141,0.2)",Primary - cocoa beans
+23,Netherlands,5,France,Import Quantity,661,"Cocoa, beans",tonnes,1599,986.583,"rgba(181,131,141,0.2)",Primary - cocoa beans
+18,Italy,5,France,Import Quantity,661,"Cocoa, beans",tonnes,735,453.495,"rgba(181,131,141,0.2)",Primary - cocoa beans
+17,Austria,5,France,Import Quantity,661,"Cocoa, beans",tonnes,318,196.206,"rgba(181,131,141,0.2)",Primary - cocoa beans
+13,Germany,5,France,Import Quantity,661,"Cocoa, beans",tonnes,253,156.101,"rgba(181,131,141,0.2)",Primary - cocoa beans
+16,Poland,5,France,Import Quantity,661,"Cocoa, beans",tonnes,122,75.274,"rgba(181,131,141,0.2)",Primary - cocoa beans
+8,Netherlands,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,412155,412155,"rgba(181,131,141,0.2)",Primary - cocoa beans
+2,Belgium,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,204303,204303,"rgba(181,131,141,0.2)",Primary - cocoa beans
+6,Germany,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,123966,123966,"rgba(181,131,141,0.2)",Primary - cocoa beans
+11,United Kingdom of Great Britain and Northern Ireland,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,57890,57890,"rgba(181,131,141,0.2)",Primary - cocoa beans
+5,France,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,50015,50015,"rgba(181,131,141,0.2)",Primary - cocoa beans
+7,Italy,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,47081,47081,"rgba(181,131,141,0.2)",Primary - cocoa beans
+10,Spain,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,35507,35507,"rgba(181,131,141,0.2)",Primary - cocoa beans
+9,Poland,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,2513,2513,"rgba(181,131,141,0.2)",Primary - cocoa beans
+3,Bulgaria,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,1001,1001,"rgba(181,131,141,0.2)",Primary - cocoa beans
+4,Estonia,0,Côte d'Ivoire,Import Quantity,661,"Cocoa, beans",tonnes,274,274,"rgba(181,131,141,0.2)",Primary - cocoa beans
+13,Germany,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,103758,76573.404,"rgba(181,131,141,0.2)",Primary - cocoa beans
+23,Netherlands,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,55875,41235.75,"rgba(181,131,141,0.2)",Primary - cocoa beans
+14,France,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,36189,26707.482,"rgba(181,131,141,0.2)",Primary - cocoa beans
+18,Italy,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,1579,1165.302,"rgba(181,131,141,0.2)",Primary - cocoa beans
+15,Spain,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,1342,990.396,"rgba(181,131,141,0.2)",Primary - cocoa beans
+17,Austria,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,771,568.998,"rgba(181,131,141,0.2)",Primary - cocoa beans
+19,Greece,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,338,249.444,"rgba(181,131,141,0.2)",Primary - cocoa beans
+16,Poland,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,290,214.02,"rgba(181,131,141,0.2)",Primary - cocoa beans
+20,Croatia,2,Belgium,Import Quantity,661,"Cocoa, beans",tonnes,104,76.752,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,2,Belgium,Processed,1640,"Cocoa, beans",tonnes,83067,61303.446,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,3,Bulgaria,Processed,1641,"Cocoa, beans",tonnes,2200,1152.8,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,5,France,Processed,1643,"Cocoa, beans",tonnes,141415,87253.055,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,6,Germany,Processed,1644,"Cocoa, beans",tonnes,432614,145358.304,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,7,Italy,Processed,1645,"Cocoa, beans",tonnes,99518,63691.52,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,8,Netherlands,Processed,1646,"Cocoa, beans",tonnes,518750,273900,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,9,Poland,Processed,1647,"Cocoa, beans",tonnes,12461,2479.739,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,10,Spain,Processed,1648,"Cocoa, beans",tonnes,123658,50081.49,"rgba(181,131,141,0.2)",Primary - cocoa beans
+12,Processed,11,United Kingdom,Processed,1649,"Cocoa, beans",tonnes,105062,72072.532,"rgba(181,131,141,0.2)",Primary - cocoa beans
